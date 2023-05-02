@@ -1,5 +1,5 @@
 # Is it a car, truck, or something blasphemous (like a Subaru Baja)?
-
+## Training the model for an image classifier
  This part of an exercise from fast.ai's second lesson in which we've trained a deep learning model to classify images as a car, a truck, or a vehicle that this author believes should have never been manufactured like a Subaru Baja?
  This repo allows us to collect our data, clean our data, and build our model. 
  
